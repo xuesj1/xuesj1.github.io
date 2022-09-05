@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>xuesjのblog</title>
+  
+  <subtitle>你好呀陌生人ヾ(≧▽≦*)o</subtitle>
+  <link href="https://xuesj.top/atom.xml" rel="self"/>
+  
+  <link href="https://xuesj.top/"/>
+  <updated>2022-09-04T02:42:29.075Z</updated>
+  <id>https://xuesj.top/</id>
+  
+  <author>
+    <name>xuesj</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hello</title>
+    <link href="https://xuesj.top/posts/3610a686.html"/>
+    <id>https://xuesj.top/posts/3610a686.html</id>
+    <published>2022-09-04T02:42:06.000Z</published>
+    <updated>2022-09-04T02:42:29.075Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
