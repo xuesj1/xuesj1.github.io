@@ -42,6 +42,17 @@
     
     
     <entry>
+      <title>友人帐</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="/css/custom.css"/>
       <url>/css/custom.css</url>
@@ -53,9 +64,9 @@
     
     
     <entry>
-      <title>友人帐</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -75,11 +86,11 @@
     
     
     <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>说说</title>
+      <link href="/shuoshuo/index.html"/>
+      <url>/shuoshuo/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<style>    div.timenode .body {    background:transparent!important;    }</style><div id="bbtalk"></div><!-- 存放哔哔的容器 --><div id="bbtalk"></div><!-- 引用 bbtalk --><script src="https://cdn.jsdelivr.net/npm/bbtalk@0.1.6/dist/bbtalk.min.js"></script><script>bbtalk.init({  appId: "pzpEgjQpTNsoatpx1mZfzM5z-MdYXbMMI",  appKey: "6rgJPXFdciVajVSV4OCQm4QZ",  serverURLs: 'https://bbtalk.xuesj.top'})</script>]]></content>
       
     </entry>
     
@@ -91,17 +102,6 @@
       <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>说说</title>
-      <link href="/shuoshuo/index.html"/>
-      <url>/shuoshuo/index.html</url>
-      
-        <content type="html"><![CDATA[<style>    div.timenode .body {    background:transparent!important;    }</style><div id="bbtalk"></div><!-- 存放哔哔的容器 --><div id="bbtalk"></div><!-- 引用 bbtalk --><script src="https://cdn.jsdelivr.net/npm/bbtalk@0.1.6/dist/bbtalk.min.js"></script><script>bbtalk.init({  appId: "pzpEgjQpTNsoatpx1mZfzM5z-MdYXbMMI",  appKey: "6rgJPXFdciVajVSV4OCQm4QZ",  serverURLs: 'https://bbtalk.xuesj.top'})</script>]]></content>
       
     </entry>
     
