@@ -17,4 +17,83 @@
     
   
   
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>视频</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友人帐</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>说说</title>
+      <link href="/shuoshuo/index.html"/>
+      <url>/shuoshuo/index.html</url>
+      
+        <content type="html"><![CDATA[<style>    div.timenode .body {    background:transparent!important;    }</style><div id="bbtalk"></div><!-- 存放哔哔的容器 --><div id="bbtalk"></div><!-- 引用 bbtalk --><script src="https://cdn.jsdelivr.net/npm/bbtalk@0.1.6/dist/bbtalk.min.js"></script><script>bbtalk.init({  appId: "pzpEgjQpTNsoatpx1mZfzM5z-MdYXbMMI",  appKey: "6rgJPXFdciVajVSV4OCQm4QZ",  serverURLs: 'https://bbtalk.xuesj.top'})</script>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+  
 </search>
