@@ -15,7 +15,7 @@ window.addEventListener('load', () => {
       loadFlag = true
     }
     // shortcut: ESC
-    document.addEventListener('keydown', function f (event) {
+    document.addEventListener('keydown', function f(event) {
       if (event.code === 'Escape') {
         closeSearch()
         document.removeEventListener('keydown', f)
@@ -33,6 +33,7 @@ window.addEventListener('load', () => {
 
   const searchClickFn = () => {
     document.querySelector('#search-button > .search').addEventListener('click', openSearch)
+    document.querySelector('#menu-search').addEventListener('click', openSearch)
   }
 
   const searchClickFnOnce = () => {
@@ -56,7 +57,7 @@ window.addEventListener('load', () => {
       const res = await response.text()
       const t = await new window.DOMParser().parseFromString(res, 'text/xml')
       const a = await t
-      data = [...a.querySelectorAll('entry')].map(item =>{
+      data = [...a.querySelectorAll('entry')].map(item => {
         return {
           title: item.querySelector('title').textContent,
           content: item.querySelector('content') && item.querySelector('content').textContent,
